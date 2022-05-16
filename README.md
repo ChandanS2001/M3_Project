@@ -48,4 +48,8 @@ Why
 HOW
 •	This project is implemented using Embedded C Program based on arm based microcontroller.
 
+Design
+
+Block Diagram Of Wiper Control System Using STM32
+
 ![image](https://user-images.githubusercontent.com/102878158/168502242-2a8d2dba-9f15-4a4a-870c-d87cac727fde.png)
