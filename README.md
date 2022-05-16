@@ -47,3 +47,5 @@ Why
 •	The main objective of this project is to control the wiper system by using the LED.
 HOW
 •	This project is implemented using Embedded C Program based on arm based microcontroller.
+
+![image](https://user-images.githubusercontent.com/102878158/168502242-2a8d2dba-9f15-4a4a-870c-d87cac727fde.png)
