@@ -29,13 +29,11 @@ Downloadable
 | Low Level Requirements	  | Description |
 | ------------- | ------------- |
 | HLR1_LLR1 | STM32F4 discovery  |
-| HLR2_LLR2 | avr gcc/gnu |
-| HLR2_LLR3 | xPack - Qemu, xPack - Windows Build Tool, Pack - OpenOCD |
+| HLR2_LLR2 | xPack - Qemu, xPack - Windows Build Tool, Pack - OpenOCD |
 | HLR2_LLR3 | STM32 Cube IDE |
-| HLR3_LLR4 | I/O PD12, PD13, PD14, PD15 on STM32F407VGT6 |
-| HLR4_LLR5 | Pull-down resistor/ Pull-up resistor  |
+| HLR3_LLR4 |Pull-down resistor/ Pull-up resistor  | 
+| HLR4_LLR5 | I/O PD12, PD13, PD14, PD15 on STM32F407VGT6 |
 | HLR4_LLR6 | PA0 digital pin  |
-
 
 4W'S and 1H
 
