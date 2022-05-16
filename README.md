@@ -20,8 +20,8 @@ Downloadable
 ## High Level Requirements
 | High Level Requirements  | Description |
 | ------------- | ------------- |
-| HLR1  | Microcontroller - STM32F4 board |
-| HLR2  | Software for simulation |
+| HLR1  | Microcontroller STM32F4 board |
+| HLR2  | Simulation software|
 | HLR3  | LED |
 | HLR4  | Push button |
 
