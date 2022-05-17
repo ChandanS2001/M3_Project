@@ -14,18 +14,17 @@ Downloadable
 | ------------- | ------------- |
 | HLR1  | Microcontroller - STM32F4 board |
 | HLR2  | Software for simulation |
-| HLR3  | LED |
+| HLR3  | LED - Green , Blue , Red |
 | HLR4  | Push button |
 
 ## Low Level Requirements
 | Low Level Requirements	  | Description |
 | ------------- | ------------- |
 | HLR1_LLR1 | STM32F4 discovery  |
-| HLR2_LLR2 | Pull-down resistor/ Pull-up resistor |
-| HLR2_LLR3 | xPack - Qemu, Windows Build Tool, OpenOCD |
+| HLR2_LLR2 |xPack - Qemu, Windows Build Tool, OpenOCD|
 | HLR2_LLR3 | STM32 Cube IDE |
-| HLR3_LLR4 | I/O PD12, PD13, PD14, PD15 on STM32F407VGT6 |
-| HLR4_LLR5 |avr gcc/gnu   |
+| HLR2_LLR4 |Pull-down resistor/ Pull-up resistor|
+| HLR3_LLR5 | I/O PD12, PD13, PD14, PD15 |
 | HLR4_LLR6 | PA0 digital pin  |
 
 4W'S and 1H
