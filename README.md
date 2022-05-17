@@ -60,6 +60,12 @@ Block diagram of wiper control system loop
 
 ![image](https://user-images.githubusercontent.com/102878158/168812177-97329e0f-9f0f-4f3b-8ede-6e626ef66ac0.png)
 
+General Block Diagram Of Wiper System
+
+![image](https://user-images.githubusercontent.com/102878158/168817977-176c6280-5933-4d94-bd2c-d465a197d89f.png)
+
 Data Flow Diagram
 
 ![image](https://user-images.githubusercontent.com/102878158/168812285-f56cf1ca-efe0-4210-ad95-6e2eddef8654.png)
+
+
