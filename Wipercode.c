@@ -1,3 +1,10 @@
+#include "main.h"
+#include "stm32f1xx_hal.h"
+void SystemClock_Config(void);
+void Error_Handler(void);  
+static void MX_GPIO_Init(void);
+
+int main(void)
 {
 	int i,b=0,j=0;  //Declaring and Initilizing Variables
 	RCC_AHB1ENR |= (1<<3)|(1<<0); //Enabling the LED and the switch
