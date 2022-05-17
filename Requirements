@@ -21,20 +21,19 @@ Downloadable
 | Low Level Requirements	  | Description |
 | ------------- | ------------- |
 | HLR1_LLR1 | STM32F4 discovery  |
-| HLR2_LLR2 | avr gcc/gnu |
-| HLR2_LLR3 | xPack - Qemu, xPack - Windows Build Tool, Pack - OpenOCD |
+| HLR2_LLR2 | Pull-down resistor/ Pull-up resistor |
+| HLR2_LLR3 | xPack - Qemu, Windows Build Tool, OpenOCD |
 | HLR2_LLR3 | STM32 Cube IDE |
 | HLR3_LLR4 | I/O PD12, PD13, PD14, PD15 on STM32F407VGT6 |
-| HLR4_LLR5 | Pull-down resistor/ Pull-up resistor  |
+| HLR4_LLR5 |avr gcc/gnu   |
 | HLR4_LLR6 | PA0 digital pin  |
-
 
 4W'S and 1H
 
 What
-•	It is the controlling of car wiper system using the STM32.
+controlling of wiper system using the STM32.
 Where
-•	This project is mainly used in Automobile industries.
+•	This project is used in Automobile industries.
 Why
 •	The main objective of this project is to control the wiper system by using the LED.
 HOW
