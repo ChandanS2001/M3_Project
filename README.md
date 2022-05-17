@@ -51,3 +51,12 @@ Design
 Block Diagram Of Wiper Control System Using STM32
 
 ![image](https://user-images.githubusercontent.com/102878158/168502242-2a8d2dba-9f15-4a4a-870c-d87cac727fde.png)
+
+Flow chart
+![image](https://user-images.githubusercontent.com/102878158/168811890-2671a1b5-fc0e-4701-8c6b-dd8ac73860e1.png)
+
+Block diagram of wiper control system loop
+![image](https://user-images.githubusercontent.com/102878158/168812177-97329e0f-9f0f-4f3b-8ede-6e626ef66ac0.png)
+
+Data Flow Diagram
+![image](https://user-images.githubusercontent.com/102878158/168812285-f56cf1ca-efe0-4210-ad95-6e2eddef8654.png)
